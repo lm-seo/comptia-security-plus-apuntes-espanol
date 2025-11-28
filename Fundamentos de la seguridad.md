@@ -1,7 +1,3 @@
-Aquí tienes el texto **estructurado y optimizado en Markdown para publicar en GitHub**:
-
----
-
 # 01 · Fundamentals of Security
 
 ## 1. Conceptos básicos
@@ -168,43 +164,3 @@ Herramientas:
 
 * Syslog
 * SIEM
-
----
-
-## 8. Ejemplo de PBQ (Performance-Based Question)
-
-### Escenario
-
-El equipo de seguridad debe asegurar el acceso remoto a la red corporativa.
-
-#### Requisitos
-
-* Autenticación multifactor
-* Comunicación cifrada
-* Registro de accesos
-* Solo dispositivos corporativos permitidos
-
-### Pregunta
-
-Configura las medidas y clasifícalas según el tipo de control.
-
-### Respuesta esperada
-
-| Medida aplicada                                | Tipo de control | Función                       |
-| ---------------------------------------------- | --------------- | ----------------------------- |
-| VPN con TLS/IPSec                              | Técnico         | Confidencialidad / Integridad |
-| MFA (token + contraseña)                       | Técnico         | Preventivo                    |
-| Registro en SIEM/Syslog                        | Administrativo  | Detective                     |
-| Política de dispositivos autorizados (MDM/NAC) | Operativo       | Preventivo                    |
-
----
-
-Formato listo para:
-
-* README.md
-* Notion
-* Documentación técnica
-* Repositorio de estudio BTL1 / Security+
-
-Si quieres que lo convierta a **plantilla reutilizable para todo tu repositorio de apuntes de ciberseguridad**, dímelo.
-
